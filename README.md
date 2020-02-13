@@ -1,3 +1,19 @@
+import Marge from './images/banner.jpg';
+import  from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+import Homer from './images/banner.jpg';
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

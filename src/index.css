@@ -1,9 +1,1 @@
-@font-face {
-  font-family: 'Simpsonfont';
-  src: local('Simpsonfont'), url('./fonts/Simpsonfont.ttf') format('ttf');
-}
 
-body {
-  font-family: 'Simpsonfont' !important;
-  background-color: red;
-}

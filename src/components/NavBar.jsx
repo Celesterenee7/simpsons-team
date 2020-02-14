@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from './images/banner.jpg';
-import '../fonts/Simpsonfont.ttf';
+
 
 function NavBar(){
 
